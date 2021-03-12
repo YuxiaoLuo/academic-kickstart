@@ -53,6 +53,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yuxiaoluo/
+- icon: youtube
+  icon_pack: fab
+  link: http://www.youtube.com/channel/UCq-MswkoZbQ-YanRMe40iFQ 
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Yuxiao Luo is PhD candidate in Information Systems studying at The Graduate Center & Baruch College, CUNY. His research interests include intelligent agent, IS implementation, and predictive modeling. 
+Yuxiao Luo is PhD candidate in Information Systems studying at The Graduate Center & Baruch College, CUNY. His research interests include intelligent agent, IS implementation, and predictive modeling. He is an independent song writer and producer. 
 
 我叫罗雨潇，是一名信息系统博士研究生，在纽约城市大学研究中心和巴鲁克学院就读以及研究。我的研究兴趣和方向是智能终端系统，信息系统开发与部署，以及预测性模型应用。
