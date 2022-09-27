@@ -1,0 +1,26 @@
+{
+    "id": "615608ED",
+    "path": "~/R/Website/academic-kickstart/config.toml",
+    "project_path": "config.toml",
+    "type": "toml",
+    "hash": "2675310465",
+    "contents": "",
+    "dirty": false,
+    "created": 1664311313798.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "13,27",
+        "scrollLine": "25",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1587312253,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1587312253,
+    "read_only": false,
+    "read_only_alternatives": []
+}
