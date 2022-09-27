@@ -18,17 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include intelligent agent, Information Systems Implementation, predictive modeling.
+bio: My research interests include music streaming, recommendation systems, digital nudging, and predictive modeling.
 
 interests:
-- Intelligent agent
-- Information Systems Implementation
+- Recommendation systems 
+- Digital nudging
+- Music streaming
 
 education:
   courses:
   - course: PhD in Information Systems (Business)
     institution: The Graduate Center & Baruch College, City University of New York
-    year: Expected 2022
+    year: Expected 2023
   - course: Ms in Applied Statistics and Decision Making
     institution: Fordham University
     year: 2016
@@ -73,6 +74,5 @@ user_groups:
 - Visitors
 ---
 
-Yuxiao Luo is PhD candidate in Information Systems studying at The Graduate Center & Baruch College, CUNY. His research interests include intelligent agent, IS implementation, and predictive modeling. He is an independent song writer and producer. 
+Yuxiao Luo is PhD candidate in Information Systems studying at The Graduate Center & Baruch College, CUNY. His research interests include music streaming, recommendation systems, and digital nudging. He is an independent music producer.Check out his music at the NFT platform [Open Sea](https://opensea.io/collection/rainshell-pinksunset).
 
-我叫罗雨潇，是一名信息系统博士研究生，在纽约城市大学研究中心和巴鲁克学院就读以及研究。我的研究兴趣和方向是智能终端系统，信息系统开发与部署，以及预测性模型应用。
